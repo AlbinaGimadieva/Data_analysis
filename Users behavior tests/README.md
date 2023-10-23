@@ -12,4 +12,4 @@
 2. исследовав результаты A/A/B-эксперимента по смене шрифта в приложении и выяснить предпочтительный вариант.
    
 **Навыки и инструменты:** A/B-тестирование, Matplotlib, Pandas, Plotly, Python, Seaborn, визуализация данных, проверка статистических гипотез, продуктовые метрики, событийная аналитика.\
-**Используемые библиотеки:** Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy,Plotly.
+**Используемые библиотеки:** Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly.
