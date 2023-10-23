@@ -8,4 +8,4 @@
 **Цель:** исследовать рынок общественного питания Москвы и представить полученные результаты, которые в будущем помогут инвесторам при принятии решения об открытии собственного заведения, в частности, кофейни.\
 **Презентация** находится [здесь](https://cloud.mail.ru/public/mzdX/7Wg4sCMGs). \
 **Навыки и инструменты:** Matplotlib, Pandas, Plotly, Python, Seaborn, визуализация данных, создание презентаций.\
-**Используемые библиотеки:** Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy,Plotly, Folium, Json.
+**Используемые библиотеки:** Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly, Folium, Json.
