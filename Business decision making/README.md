@@ -10,4 +10,4 @@
 **Данные:** список гипотез для проверки, данные о пользователях и заказах по итогам проведения A/B-теста.\
 **Цель:** приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.\
 **Навыки и инструменты:** A/B-тестирование, Matplotlib, Pandas, Python, SciPy, проверка статистических гипотез.\
-**Библиотеки:** Pandas, Numpy, Matplotlib.pyplot, Seaborn, Math, Datetime, Scipy.stats, Import register_matplotlib_converters.
+**Используемые библиотеки:** Pandas, Numpy, Matplotlib.pyplot, Seaborn, Math, Datetime, Scipy.stats, Import register_matplotlib_converters.
