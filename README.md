@@ -10,4 +10,6 @@
 | [Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](4.Business_decision_making) | Приоритизация гипотез, оценка результатов A/B-тестирования различными методами| *Pandas, Numpy, Matplotlib.pyplot, Seaborn, Math, Datetime, Scipy, Import register_matplotlib_converters.* |Завершен |
 | [Анализ пользовательского поведения в мобильном приложении](5.Users_behavior_tests) | Анализ воронки продаж, оценка результатов A/A/B-тестирования на основе данных использования мобильного приложения для продажи продуктов питания | *Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly* |Завершен |
 | [Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](6.Market_research_visualization) | Исследование рынка общественного питания на основе открытых данных, подготовка презентации| *Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly, Folium, Json* |Завершен |
-| [Выпускной проект](7.Senior_project) | 1. Анализ оттока клиентов банка  2. Проект по А/B-тестированию \ 3. Проект по SQL| *Pandas, Matplotlib, Seaborn, Math, SciPy, Phik* |Завершен |
+| [Выпускной проект](7.Senior_project) | 1. Анализ оттока клиентов банка  
+2. Проект по А/B-тестированию 
+3. Проект по SQL| *Pandas, Matplotlib, Seaborn, Math, SciPy, Phik* |Завершен |
