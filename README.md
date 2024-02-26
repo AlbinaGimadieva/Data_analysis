@@ -11,3 +11,6 @@
 | [Анализ пользовательского поведения в мобильном приложении](5.Users_behavior_tests) | Анализ воронки продаж, оценка результатов A/A/B-тестирования на основе данных использования мобильного приложения для продажи продуктов питания | *Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly* |Завершен |
 | [Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](6.Market_research_visualization) | Исследование рынка общественного питания на основе открытых данных, подготовка презентации| *Pandas, Numpy, Matplotlib, Seaborn, Math, Datetime, SciPy, Plotly, Folium, Json* |Завершен |
 | [Выпускной проект](7.Senior_project) | 1. Анализ оттока клиентов банка <br> 2. Проект по А/B-тестированию <br> 3. Проект по SQL| *Pandas, Matplotlib, Seaborn, Math, SciPy, Phik* |Завершен |
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinaGimadieva&show_icons=true&theme=transparent)
